@@ -167,7 +167,7 @@ Avoid spamming commands
 
 ---
 
-📌 Troubleshooting
+#Troubleshooting
 
 Session expired? → Re-pair WhatsApp
 
